@@ -1,0 +1,20 @@
+
+#numero {
+  width: 500px;
+  color: red;
+  font-size: 50px;
+  text-align: center;
+}
+
+
+button {
+
+  width: 500px;
+  height: 50px;
+}
+
+#mensaje {
+  width: 500px;
+  height: 100px;
+  color: red;
+}
